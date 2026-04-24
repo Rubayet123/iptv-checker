@@ -1,3 +1,5 @@
+<img src="./iptv-checker.jpg">
+
 # IPTV Stream Checker
 
 Browser-based IPTV stream health checker. Paste or upload any `.m3u` playlist and instantly see which streams are LIVE, DEAD, or TIMEOUT.
